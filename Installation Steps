@@ -7,3 +7,6 @@ npm install
 4.Open in browser Navigate to http://localhost:3000
 Building for Production
 npm run build
+API Reference
+Habit Management
+Create Habit
