@@ -7,3 +7,4 @@ const newHabit = {
   completedDates: []
 };
 Update Habit Completion
+habit.completedDates.push(new Date().toISOString());
