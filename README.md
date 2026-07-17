@@ -89,3 +89,11 @@ Acknowledgments
 Thanks to all contributors
 Inspired by popular habit tracking applications
 Community feedback and suggestions
+Change Log
+Version 1.0.0
+Initial release
+Core habit tracking features
+Local storage implementation
+Last Updated: July 2026
+
+Happy Habit Tracking! 🚀
