@@ -78,3 +78,8 @@ Roadmap
  Social features (share progress)
  Export data as PDF
  Advanced analytics
+License
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+Support
+For support, email us at support@habittracker.com or open an issue on GitHub.
