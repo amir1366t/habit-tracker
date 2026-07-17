@@ -10,3 +10,11 @@ npm run build
 API Reference
 Habit Management
 Create Habit
+const newHabit = {
+  id: uniqueId(),
+  name: "Morning Workout",
+  description: "30 minutes exercise",
+  frequency: "daily",
+  createdAt: new Date(),
+  completedDates: []
+};
