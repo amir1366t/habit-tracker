@@ -1,4 +1,3 @@
-# habit-tracker
 # Habit Tracker
 
 A powerful and intuitive habit tracking application to help you build better habits, stay consistent, and achieve your goals.
