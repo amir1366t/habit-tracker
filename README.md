@@ -56,3 +56,16 @@ Getting Started with Development
 Prerequisites
 Node.js (v14.0 or higher)
 npm or yarn
+Contributing
+We welcome contributions! Here's how you can help:
+
+Fork the repository
+Create a feature branch (git checkout -b feature/amazing-feature)
+Commit your changes (git commit -m 'Add amazing feature')
+Push to the branch (git push origin feature/amazing-feature)
+Open a Pull Request
+Code Style
+Use ES6+ syntax
+Follow React best practices
+Write meaningful commit messages
+Add comments for complex logic
