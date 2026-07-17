@@ -83,3 +83,9 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 Support
 For support, email us at support@habittracker.com or open an issue on GitHub.
+Authors
+Amir - Initial work - amir1366t
+Acknowledgments
+Thanks to all contributors
+Inspired by popular habit tracking applications
+Community feedback and suggestions
