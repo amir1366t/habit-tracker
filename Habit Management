@@ -1,4 +1,4 @@
-const newHabit = {
+#const newHabit = {
   id: uniqueId(),
   name: "Morning Workout",
   description: "30 minutes exercise",
@@ -6,5 +6,7 @@ const newHabit = {
   createdAt: new Date(),
   completedDates: []
 };
-Update Habit Completion
+#Update Habit Completion
 habit.completedDates.push(new Date().toISOString());
+#Delete Habit
+habits = habits.filter(h => h.id !== habitId);
