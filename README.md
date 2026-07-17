@@ -69,3 +69,12 @@ Use ES6+ syntax
 Follow React best practices
 Write meaningful commit messages
 Add comments for complex logic
+Roadmap
+ User authentication system
+ Backend integration (Node.js/Express)
+ Database storage (MongoDB/PostgreSQL)
+ Mobile app (React Native)
+ Dark mode support
+ Social features (share progress)
+ Export data as PDF
+ Advanced analytics
