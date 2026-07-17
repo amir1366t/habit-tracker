@@ -1,0 +1,11 @@
+habit-tracker/
+├── src/
+│   ├── components/      # React components
+│   ├── pages/          # Page components
+│   ├── hooks/          # Custom React hooks
+│   ├── utils/          # Utility functions
+│   ├── styles/         # CSS and styling
+│   └── App.jsx         # Main App component
+├── public/             # Static assets
+├── package.json        # Project dependencies
+└── README.md          # This file
