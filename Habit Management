@@ -6,3 +6,4 @@ const newHabit = {
   createdAt: new Date(),
   completedDates: []
 };
+Update Habit Completion
