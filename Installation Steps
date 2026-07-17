@@ -5,3 +5,5 @@ cd habit-tracker
 npm install
 3.Start development server
 4.Open in browser Navigate to http://localhost:3000
+Building for Production
+npm run build
